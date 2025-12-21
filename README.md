@@ -1,4 +1,4 @@
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_small.svg)](https://alzheimer-diagnosis-system.streamlit.app/)
 # 🧠 Alzheimer's Disease Diagnosis System
 
 This project is an AI-powered system designed to predict and diagnose Alzheimer's Disease using clinical and lifestyle data. It compares multiple machine learning models to find the most accurate diagnostic tool.
