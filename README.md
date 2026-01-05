@@ -28,5 +28,5 @@ We implemented and compared four major models:
 3. Run the app: `streamlit run app.py`.
 
 ## 👥 Contributors
-* [Khaled Mohamed]
-* [Khaled Hamada]
+#### Khaled Mohamed
+#### Khaled Hamada
